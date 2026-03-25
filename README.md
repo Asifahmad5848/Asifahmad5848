@@ -13,6 +13,8 @@ A data scientist passionate about uncovering insights from data. Armed with a de
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aa__SiF/)
 
+[![Portfolio](https://asifahmad5848.github.io/AsifAhmad.github.oi/)
+
 
 ## 🛠 Skills
 1. Programming: Python, SQL
